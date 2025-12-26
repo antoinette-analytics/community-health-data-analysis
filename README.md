@@ -18,3 +18,6 @@ This project analyzes publicly available federal health center data to understan
 2. Used SQL queries to validate aggregations and ensure data integrity.
 3. Built dashboards to summarize insights for stakeholders.
 4. Documented analysis for reproducibility.
+
+## Outcome
+Produced clear, reproducible insights that could support public health planning and funding decisions.
